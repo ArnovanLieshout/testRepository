@@ -1,6 +1,6 @@
 Initial test
 Second test
 not commited
-Third test with brach
+Third test now good
 
 Third test now good
